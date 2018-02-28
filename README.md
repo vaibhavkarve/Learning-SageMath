@@ -3,6 +3,9 @@ A repository of my SageMath notebooks. I mostly use these to keep track of my pr
 
 I am reading *Mathematical Computation with SageMath* [https://members.loria.fr/PZimmermann/sagebook/english.html]
 
+##Update:
+I am putting this on pause at the moment. Need to resume from Section 2.4 of the book.
+
 ## Chapters:
 - [x] Chapter 1 (First Steps)
 - [ ] Chapter 2 (Analysis and Algebra)
