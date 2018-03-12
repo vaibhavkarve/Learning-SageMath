@@ -6,6 +6,9 @@ I am reading *Mathematical Computation with SageMath* [https://members.loria.fr/
 ##Update:
 I am putting this on pause at the moment. Need to resume from Section 2.4 of the book.
 
+I did however finish Chapter 3.
+
+
 ## Chapters:
 - [x] Chapter 1 (First Steps)
 - [ ] Chapter 2 (Analysis and Algebra)
